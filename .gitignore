@@ -13,6 +13,8 @@ docs/
 # Dotenv file
 .env
 
+.vscode
+
 # Frontend
 frontend/build/
 frontend/node_modules
